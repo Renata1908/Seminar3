@@ -22,7 +22,7 @@ else if(x > 0 && y < 0 )
 {
     Console.WriteLine("Четвертая четверть");
 }
-else if(x == 0 || y == 0)
+else 
 {
         Console.WriteLine("Введена нулевая координата");
 }
