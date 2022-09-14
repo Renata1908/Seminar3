@@ -1,7 +1,11 @@
 ﻿Console.WriteLine("Введите координату точки А: х1");
 double x1 = Convert.ToInt32(Console.ReadLine());
+
 Console.WriteLine("Введите координату точки А: у1");
 double y1 = Convert.ToInt32(Console.ReadLine());
+
+
+
 
 Console.WriteLine("Введите координату точки В: х2");
 double x2 = Convert.ToInt32(Console.ReadLine());
