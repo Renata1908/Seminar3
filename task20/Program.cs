@@ -26,7 +26,7 @@ sum = quadrA + quadrB;
 
 dist =Math.Sqrt(sum);
 
-Console.WriteLine(dist);
+Console.WriteLine($"{dist:f4}");
 
 
 
